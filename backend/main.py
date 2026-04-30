@@ -1,6 +1,4 @@
 import os
-from fastapi.responses import FileResponse
-from fastapi.staticfiles import StaticFiles
 from typing import List, Optional
 from fastapi import FastAPI, Depends, HTTPException, Query
 from fastapi.staticfiles import StaticFiles
@@ -152,14 +150,3 @@ def get_filter_options(db: Session = Depends(get_db)):
         "max_density": max_density[0] if max_density and max_density[0] else 1000,
         "max_martindale": max_martindale[0] if max_martindale and max_martindale[0] else 200000
     }
-# --- РАЗДАЧА ФРОНТЕНДА ---
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-FRONTEND_DIR = os.path.join(BASE_DIR, "frontend")
-
-# Даем доступ к папке frontend (чтобы работали стили, JS и картинки)
-app.mount("/frontend", StaticFiles(directory=FRONTEND_DIR), name="frontend")
-
-# При заходе на главную страницу показываем каталог
-@app.get("/")
-async def serve_index():
-    return FileResponse(os.path.join(FRONTEND_DIR, "index.html"))

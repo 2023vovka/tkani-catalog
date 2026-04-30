@@ -1,4 +1,4 @@
-const API_BASE = fetch('/api/fabrics');
+const API_BASE = '/api';
 
 // DOM Elements
 const searchInput = document.getElementById('searchInput');
