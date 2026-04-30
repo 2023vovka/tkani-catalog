@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Умная База Тканей</title>
+    <!-- Modern Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/frontend/style.css">
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <div class="glass-container">
+        
+        <!-- Sidebar Filters -->
+        <aside class="sidebar glass-panel">
+            <h2>Фильтры</h2>
+            
+            <div class="filter-group">
+                <label>Поиск</label>
+                <input type="text" id="searchInput" placeholder="Название или производитель..." class="glass-input">
+            </div>
+
+            <div class="filter-group">
+                <label>Производитель</label>
+                <select id="manufacturerSelect" class="glass-select">
+                    <option value="">Все</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label>Категория</label>
+                <select id="categorySelect" class="glass-select">
+                    <option value="">Все</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label>Тип ткани</label>
+                <div class="checkbox-group">
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="typeChenille" value="chenille">
+                        <span class="checkmark">Шенилл</span>
+                    </label>
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="typeBraided" value="braided">
+                        <span class="checkmark">Рогожка</span>
+                    </label>
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="typeVelvet" value="velvet">
+                        <span class="checkmark">Велюр / Микровелюр</span>
+                    </label>
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="typeBoucle" value="boucle">
+                        <span class="checkmark">Букле</span>
+                    </label>
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="typeLeather" value="leather">
+                        <span class="checkmark">Экокожа</span>
+                    </label>
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="typeKnitted" value="knitted">
+                        <span class="checkmark">Трикотаж</span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label>Свойства</label>
+                <div class="checkbox-group">
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="propWater">
+                        <span class="checkmark">💧 Водоотталкивание</span>
+                    </label>
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="propPet">
+                        <span class="checkmark">🐾 Антикоготь</span>
+                    </label>
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="propClean">
+                        <span class="checkmark">✨ Легкая чистка</span>
+                    </label>
+                    <label class="glass-checkbox">
+                        <input type="checkbox" id="propRecycled">
+                        <span class="checkmark">♻️ Переработанный полиэстер</span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label>Мартиндейл (от)</label>
+                <input type="range" id="martindaleSlider" min="0" max="200000" step="10000" value="0">
+                <span id="martindaleValue" class="slider-value">0 циклов</span>
+            </div>
+
+            <div class="filter-group">
+                <label class="glass-checkbox toggle-missing">
+                    <input type="checkbox" id="missingPrice">
+                    <span class="checkmark">⚠️ Показывать без цены</span>
+                </label>
+            </div>
+
+        </aside>
+
+        <!-- Main Content Grid -->
+        <main class="main-content">
+            <header class="top-header">
+                <h1>База Тканей</h1>
+                <div class="stat-badge">Найдено: <span id="resultCount">0</span></div>
+            </header>
+
+            <div class="fabrics-grid" id="fabricsGrid">
+                <!-- Fabric Cards will be injected here by JS -->
+            </div>
+            
+            <div class="loader" id="loader">
+                <div class="spinner"></div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal for Colors Gallery -->
+    <div class="modal" id="colorModal">
+        <div class="modal-content glass-panel">
+            <span class="close-btn" id="closeModal">&times;</span>
+            <h2 id="modalTitle">Цвета</h2>
+            <div class="colors-grid" id="modalColorsGrid">
+                <!-- Colors injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/frontend/app.js"></script>
+</body>
+</html>
