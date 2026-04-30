@@ -1,4 +1,5 @@
 import os
+from fastapi.staticfiles import StaticFiles
 from typing import List, Optional
 from fastapi import FastAPI, Depends, HTTPException, Query
 from fastapi.staticfiles import StaticFiles
@@ -150,3 +151,14 @@ def get_filter_options(db: Session = Depends(get_db)):
         "max_density": max_density[0] if max_density and max_density[0] else 1000,
         "max_martindale": max_martindale[0] if max_martindale and max_martindale[0] else 200000
     }
+# --- НАСТРОЙКИ ДЛЯ RENDER (Раздача интерфейса) ---
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FRONTEND_DIR = os.path.join(BASE_DIR, "frontend")
+
+# Если есть старые локальные фото
+IMAGES_DIR = os.path.join(BASE_DIR, "fabric_images")
+if os.path.exists(IMAGES_DIR):
+    app.mount("/fabric_images", StaticFiles(directory=IMAGES_DIR), name="images")
+
+# Делаем папку frontend главной для сайта
+app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")
