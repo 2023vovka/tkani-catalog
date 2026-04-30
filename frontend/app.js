@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = fetch('/api/fabrics');
 
 // DOM Elements
 const searchInput = document.getElementById('searchInput');
