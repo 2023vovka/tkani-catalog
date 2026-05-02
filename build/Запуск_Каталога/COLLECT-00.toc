@@ -1,0 +1,2612 @@
+([('Запуск_Каталога.exe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\build\\Запуск_Каталога\\Запуск_Каталога.exe',
+   'EXECUTABLE'),
+  ('python314.dll',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\python314.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\util.cp314-win_amd64.pyd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\util.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\resultproxy.cp314-win_amd64.pyd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\resultproxy.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\processors.cp314-win_amd64.pyd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\processors.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\immutabledict.cp314-win_amd64.pyd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\immutabledict.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\collections.cp314-win_amd64.pyd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\collections.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('greenlet\\_greenlet.cp314-win_amd64.pyd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\greenlet\\_greenlet.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_zoneinfo.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_zoneinfo.pyd',
+   'EXTENSION'),
+  ('pydantic_core\\_pydantic_core.cp314-win_amd64.pyd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\pydantic_core\\_pydantic_core.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('MSVCP140.dll', 'C:\\Windows\\system32\\MSVCP140.dll', 'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\Volodymyr\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Chisinau',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Zaporozhye',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Andorra',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Amsterdam',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Marigot',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indiana\\Vevay',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Stockholm',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indiana\\Marengo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Portugal',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Portugal',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Yakutat',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Porto-Novo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Atyrau',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Melbourne',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Simferopol',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Warsaw',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Budapest',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\La_Paz',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Cairo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT0',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Cancun',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Cuiaba',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('tzdata\\zoneinfo\\EST',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EST',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Harare',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Mexico\\BajaNorte',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Samarkand',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Hobart',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Mawson',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Port_Moresby',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Efate',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Perth',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\West',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Jujuy',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Knox_IN',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Porto_Velho',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Copenhagen',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Samoa',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Cuba',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Cuba',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Catamarca',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Barbados',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Mountain',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\New_York',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Wake',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Tirane',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Riyadh',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Japan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Japan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Samara',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\St_Johns',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Adak',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('tzdata\\zoneinfo\\tzdata.zi',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Belize',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indiana\\Tell_City',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Istanbul',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Karachi',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Hong_Kong',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Bangui',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Brazil\\DeNoronha',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Chatham',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Israel',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Israel',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indianapolis',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Busingen',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('tzdata\\zoneinfo\\ROK',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\ROK',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Vientiane',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Tripoli',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Zulu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Zulu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\St_Barthelemy',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Iran',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Iran',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Pacific',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Panama',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Poland',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Poland',
+   'DATA'),
+  ('tzdata\\zones',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zones',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Macau',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Maceio',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Thimbu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Maseru',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Canada\\Atlantic',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('tzdata\\zoneinfo\\UTC',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\UTC',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Darwin',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('tzdata\\zoneinfo\\zonenow.tab',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\zonenow.tab',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Qatar',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Palmer',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('tzdata\\zoneinfo\\zone1970.tab',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\GB-Eire',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Dili',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Inuvik',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('tzdata\\zoneinfo\\UCT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\UCT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Ensenada',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\South_Georgia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Monrovia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Rothera',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Dhaka',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+9',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Anchorage',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Berlin',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Macquarie',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Rarotonga',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Gibraltar',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Shiprock',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Lome',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Tokyo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Creston',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Resolute',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Egypt',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Egypt',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Canada\\Newfoundland',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Auckland',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('tzdata\\zoneinfo\\WET',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\WET',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Boa_Vista',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Kirov',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Factory',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Factory',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Canada\\Central',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Tehran',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Swift_Current',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Isle_of_Man',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Sitka',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Phnom_Penh',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Atka',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('tzdata\\zoneinfo\\PST8PDT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+12',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Kiev',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+11',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Turkey',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Turkey',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Indiana-Starke',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Uzhgorod',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Marquesas',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Kathmandu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Saratov',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Yangon',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Rio_Branco',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Istanbul',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Canada\\Mountain',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Jersey',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Stanley',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Syowa',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Guatemala',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\El_Salvador',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Dawson',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Baghdad',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Mendoza',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Denver',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Singapore',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('tzdata\\zoneinfo\\NZ',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\NZ',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Lindeman',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Majuro',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Baku',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Nouakchott',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Pontianak',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Glace_Bay',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Timbuktu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Fiji',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Magadan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Almaty',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Belgrade',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Mazatlan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Salta',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Aruba',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Addis_Ababa',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\North_Dakota\\Center',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Fakaofo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Apia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Montreal',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Johnston',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Punta_Arenas',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\St_Helena',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Guernsey',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Podgorica',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Galapagos',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Choibalsan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Kolkata',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Detroit',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Muscat',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Nicosia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\North',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Puerto_Rico',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Grenada',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('tzdata\\zoneinfo\\EET',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EET',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Honolulu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Saigon',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Broken_Hill',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Lima',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Dacca',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Banjul',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Atikokan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Jayapura',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Bucharest',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-1',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Godthab',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Guadeloupe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Macao',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Kwajalein',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Norfolk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Katmandu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-12',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Nuuk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Queensland',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Sarajevo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Mexico_City',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('tzdata\\zoneinfo\\CET',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\CET',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Taipei',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Eire',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Eire',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Wallis',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Enderbury',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-4',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Santa_Isabel',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Johannesburg',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Monterrey',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Catamarca',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indiana\\Petersburg',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Qyzylorda',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Currie',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\Universal',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Tel_Aviv',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Toronto',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Miquelon',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('tzdata\\zoneinfo\\zone.tab',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\DumontDUrville',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Shanghai',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Freetown',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Lusaka',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Dublin',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-13',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Kralendijk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Kanton',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Palau',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\St_Kitts',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Canberra',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Reunion',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Maputo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Jerusalem',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Canada\\Saskatchewan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Bamako',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Yekaterinburg',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Tasmania',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Porto_Acre',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Kyiv',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Barnaul',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Bermuda',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Navajo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Navajo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Vienna',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Fort_Nelson',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Santo_Domingo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Minsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Madeira',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Novosibirsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Chile\\EasterIsland',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Libreville',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Tarawa',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Moncton',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Belfast',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Ceuta',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Tahiti',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Lagos',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Seoul',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Vladivostok',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Dominica',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Adelaide',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Irkutsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+6',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Azores',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Whitehorse',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Kentucky\\Louisville',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Bahia_Banderas',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Ciudad_Juarez',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\ACT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Sakhalin',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\Greenwich',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Oslo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Noronha',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\St_Thomas',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Conakry',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Buenos_Aires',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Urumqi',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Astrakhan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Helsinki',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Madrid',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Mexico\\General',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Nome',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Kabul',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Blantyre',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Cape_Verde',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Qostanay',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Dushanbe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Grand_Turk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Rosario',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Asmera',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-9',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Chihuahua',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Sao_Paulo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Pyongyang',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Montevideo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Fort_Wayne',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Libya',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Libya',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Lubumbashi',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Caracas',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Nassau',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Tucuman',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Kerguelen',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Athens',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Easter',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Bujumbura',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Eastern',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Aqtau',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Pohnpei',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\London',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('tzdata\\zoneinfo\\GMT+0',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-10',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('tzdata\\zoneinfo\\PRC',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\PRC',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Damascus',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Volgograd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Christmas',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+5',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Guadalcanal',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Nairobi',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Samoa',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Metlakatla',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Vancouver',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Rainy_River',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Pitcairn',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Chicago',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Edmonton',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Danmarkshavn',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Tegucigalpa',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Algiers',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Araguaina',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('tzdata\\zoneinfo\\iso3166.tab',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Phoenix',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-5',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('tzdata\\zoneinfo\\NZ-CHAT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Manila',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('tzdata\\zoneinfo\\MST',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MST',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Vatican',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Brazil\\Acre',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Rome',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Antigua',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Kampala',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Harbin',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Tbilisi',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-3',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\LHI',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Casey',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-7',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Canada\\Eastern',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Kiritimati',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Nauru',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Novokuznetsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Niamey',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Belem',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Mariehamn',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Tashkent',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Beirut',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Brunei',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-11',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Kentucky\\Monticello',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Bissau',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Hebron',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Mayotte',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Port_of_Spain',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Canada\\Yukon',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Hermosillo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Hongkong',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Casablanca',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Ljubljana',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Luxembourg',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Bratislava',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Ndjamena',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Jamaica',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Manaus',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Virgin',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Kinshasa',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\South',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Goose_Bay',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Ulaanbaatar',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Jamaica',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Midway',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Truk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\St_Lucia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Gaza',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Yakutsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Los_Angeles',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Chile\\Continental',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Arizona',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Dubai',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Anadyr',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Guam',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+2',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Curacao',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Bahrain',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Accra',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Hovd',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('tzdata\\zoneinfo\\leapseconds',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Vilnius',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Pangnirtung',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Yellowknife',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indiana\\Winamac',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Mauritius',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Nipigon',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Tiraspol',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Recife',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Kashgar',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\South_Pole',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Alaska',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Kamchatka',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-2',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Zagreb',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Kosrae',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Montserrat',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Omsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-6',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Cambridge_Bay',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Skopje',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-8',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\St_Vincent',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Eucla',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Halifax',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Anguilla',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Chuuk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Lord_Howe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Fortaleza',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\San_Marino',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Jujuy',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Prague',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Aleutian',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Iqaluit',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Universal',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Universal',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Santarem',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Guayaquil',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Vostok',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Reykjavik',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Sydney',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\McMurdo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Niue',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Chungking',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Juba',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Juneau',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Kigali',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+0',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Ust-Nera',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Bishkek',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Chita',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+8',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Ujung_Pandang',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\El_Aaiun',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Brazil\\West',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Ouagadougou',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Coyhaique',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Coyhaique',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Ponape',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Noumea',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Troll',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Matamoros',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\San_Juan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Bahia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Blanc-Sablon',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('tzdata\\zoneinfo\\GB',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GB',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Lower_Princes',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Antananarivo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Cayenne',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Coral_Harbour',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Douala',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Kwajalein',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Srednekolymsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Mogadishu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-0',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+10',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indiana\\Knox',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Greenwich',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Khandyga',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Merida',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('tzdata\\zoneinfo\\ROC',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\ROC',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Bogota',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Cocos',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('tzdata\\zoneinfo\\W-SU',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\W-SU',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Thunder_Bay',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Mendoza',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('tzdata\\zoneinfo\\MET',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MET',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Ashgabat',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Ulan_Bator',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Maldives',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Mbabane',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Mahe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Riga',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Ulyanovsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Asmara',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Calcutta',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\UCT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Thimphu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Cayman',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('tzdata\\zoneinfo\\GMT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Brazil\\East',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Malabo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Lisbon',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Eirunepe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Canary',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Tunis',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+4',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Makassar',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Bangkok',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Famagusta',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Brisbane',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Tallinn',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Rankin_Inlet',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Port-au-Prince',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Brazzaville',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Central',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Cordoba',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+7',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT-14',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Jakarta',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Tijuana',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Djibouti',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Aqtobe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Abidjan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Gambier',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Nicosia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Moscow',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Krasnoyarsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Michigan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Rangoon',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Windhoek',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Monaco',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Kuching',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Saipan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Luanda',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Amman',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Tongatapu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Antarctica\\Davis',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+3',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Zurich',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Dawson_Creek',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Brussels',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Colombo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Arctic\\Longyearbyen',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Regina',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Oral',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Faroe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Paramaribo',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Chongqing',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Dakar',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Gaborone',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Sao_Tome',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('tzdata\\zoneinfo\\CST6CDT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Africa\\Khartoum',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Martinique',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Yerevan',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Canada\\Pacific',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('tzdata\\zoneinfo\\GMT-0',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Menominee',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('tzdata\\zoneinfo\\HST',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\HST',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Louisville',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Vaduz',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Mexico\\BajaSur',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Tomsk',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Asuncion',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\NSW',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\Cordoba',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Indiana\\Vincennes',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('tzdata\\zoneinfo\\EST5EDT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Argentina\\San_Luis',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Iceland',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Iceland',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Ojinaga',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Funafuti',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Ashkhabad',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Sofia',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Guyana',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Chagos',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Kuwait',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Yancowinna',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Paris',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Havana',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Yap',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Scoresbysund',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('tzdata\\zoneinfo\\GMT0',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\GMT0',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Managua',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\UTC',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('tzdata\\zoneinfo\\MST7MDT',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Australia\\Victoria',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Campo_Grande',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Winnipeg',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Tortola',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Malta',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Santiago',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Europe\\Kaliningrad',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Bougainville',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\Hawaii',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Thule',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Asia\\Aden',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Pacific\\Pago_Pago',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\Zulu',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Costa_Rica',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('tzdata\\zoneinfo\\America\\Boise',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Indian\\Comoro',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Singapore',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Singapore',
+   'DATA'),
+  ('tzdata\\zoneinfo\\US\\East-Indiana',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Etc\\GMT+1',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('tzdata\\zoneinfo\\Atlantic\\Faeroe',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('click-8.3.2.dist-info\\licenses\\LICENSE.txt',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\click-8.3.2.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\REQUESTED',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\REQUESTED',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\RECORD',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\RECORD',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\METADATA',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\METADATA',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\WHEEL',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\WHEEL',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\INSTALLER',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\INSTALLER',
+   'DATA'),
+  ('click-8.3.2.dist-info\\METADATA',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\click-8.3.2.dist-info\\METADATA',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\licenses\\LICENSE',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('click-8.3.2.dist-info\\RECORD',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\click-8.3.2.dist-info\\RECORD',
+   'DATA'),
+  ('click-8.3.2.dist-info\\WHEEL',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\click-8.3.2.dist-info\\WHEEL',
+   'DATA'),
+  ('click-8.3.2.dist-info\\INSTALLER',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\click-8.3.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('base_library.zip',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\build\\Запуск_Каталога\\base_library.zip',
+   'DATA')],)

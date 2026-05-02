@@ -1,0 +1,66 @@
+('F:\\Антигравити ии\\база даных '
+ 'ткани\\build\\Запуск_Каталога\\Запуск_Каталога.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'F:\\Антигравити ии\\база даных ткани\\build\\Запуск_Каталога\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\build\\Запуск_Каталога\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\build\\Запуск_Каталога\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\build\\Запуск_Каталога\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\build\\Запуск_Каталога\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\build\\Запуск_Каталога\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'F:\\Антигравити ии\\база даных '
+   'ткани\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('launcher',
+   'F:\\Антигравити ии\\база даных ткани\\launcher.py',
+   'PYSOURCE')],
+ 'python314.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
