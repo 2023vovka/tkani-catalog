@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = '/api';
 
 // DOM Elements
 const searchInput = document.getElementById('searchInput');
