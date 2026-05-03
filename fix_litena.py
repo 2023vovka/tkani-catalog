@@ -19,7 +19,12 @@ def extract_litena_data(text, html=""):
     
     # 1. МАРТИНДЕЙЛ
     martindale = None
+    # Вариант 1: Ключевое слово перед числом
     match_martindale = re.search(r'(?i)(?:martindale|trinties|trinčiai|atsparumas|ciklų)[^\d]{0,50}?([><~]?\s*\d{2,3}[\s.,]*\d{3})', clean_text)
+    if not match_martindale:
+        # Вариант 2: Число перед ключевым словом (как на сайте Litena: 100.000 Martindale testas)
+        match_martindale = re.search(r'(?i)([><~]?\s*\d{2,3}[\s.,]*\d{3})[a-z\s.,-]{0,50}?(?:martindale|trinties|trinčiai|atsparumas|testas|ciklų)', clean_text)
+        
     if match_martindale:
         martindale = clean_number(match_martindale.group(1))
 
@@ -35,7 +40,7 @@ def extract_litena_data(text, html=""):
         fabric_type = "Шенилл"
     elif "žakardas" in text_lower or "zakardas" in text_lower:
         fabric_type = "Жаккард"
-    elif "pintas audinys" in text_lower or "stambaus pynimo" in text_lower:
+    elif "pintas audinys" in text_lower or "stambaus pynimo" in text_lower or "austas audinys" in text_lower:
         fabric_type = "Рогожка"
     elif "mikropluoštas" in text_lower or "mikropluostas" in text_lower:
         fabric_type = "Микрофибра"
@@ -52,10 +57,11 @@ def extract_litena_data(text, html=""):
     # Ищем упоминания в тексте или в названиях иконок в HTML
     combined_content = text_lower + " " + clean_html.lower()
 
-    if "lengvai valomas" in combined_content or "easy clean" in combined_content or "lengvas valymas" in combined_content:
+    if "lengvai valom" in combined_content or "easy clean" in combined_content or "lengvas valymas" in combined_content:
         properties_list.append("Легкая чистка")
     
-    if "draugiškas gyvūnams" in combined_content or "pet friendly" in combined_content or "gyvūnams" in combined_content:
+    # Проверка на Антикоготь (исключаем "nedraugiški")
+    if ("draugišk" in combined_content or "pet friendly" in combined_content or "gyvūnams" in combined_content) and "nedraugišk" not in combined_content:
         properties_list.append("Антикоготь")
         
     if "vandeniui atsparus" in combined_content or "skysčius atstumiantis" in combined_content or "skysčius" in combined_content or "water repellent" in combined_content:
